@@ -10,6 +10,8 @@ using System.Data.SqlClient;
 
 namespace SystemPerformance
 {
+    /*This is an Open Source Project hosted at https://github.com/somdipdey/SystemPerformance.git */
+
 
     /*This class tracks the performance of the computer on which the assemblies (or this assembly) is/are executing.
      PerformanceTracker uses different components of PerformanceCounter to track performance of different components of the computer*/
