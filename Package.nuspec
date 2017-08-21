@@ -2,14 +2,14 @@
 <package >
   <metadata>
     <id>SystemPerformance</id>
-    <version>1.0.0.5</version>
+    <version>1.0.0.6</version>
     <authors>Somdip Dey, http://www.somdipdey.com</authors>
     <owners>Somdip Dey, http://www.somdipdey.com</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>This package contains all-in-one library to help track CPU / Memory (RAM) / Disk (Ready) usage to monitor device performance better. Your all-in-one System Performance tracker.</description>
+    <description>This package contains all-in-one library to help track CPU / Memory (RAM) / Disk (Ready) usage / SQL and SQL Server Performance to monitor device and assembly performance better. Your all-in-one System Performance tracker. GitHub Open Source Poject: https://github.com/somdipdey/SystemPerformance.git</description>
     <releaseNotes>With more features to track performance of CPU/Memory/Disk</releaseNotes>
     <copyright>Copyright 2017</copyright>
-    <tags>CPU RAM DISK System Performance Monitor</tags>
+    <tags>CPU RAM DISK SQL Server System Performance Monitor</tags>
   </metadata>
   <files>
     <file src="SysPerformance\bin\Debug\*.dll" target="lib" />
