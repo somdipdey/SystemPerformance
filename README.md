@@ -1,7 +1,7 @@
 # SystemPerformance
 Track System Performance (CPU / RAM / Memory / SQL Server) using this NuGet Package. Requires .Net 3.5+ framework. It is an Open Source project under MIT License.
 
-# Permissions Required::
+## Permissions Required
 
 To monitor performance of SQL Server Objects you need the following permissions:
 On SQL Server, requires VIEW SERVER STATE permission.
